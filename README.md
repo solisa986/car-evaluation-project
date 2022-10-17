@@ -11,7 +11,7 @@ and [Docker-compose](https://docs.docker.com/compose/). The GIF below is a demon
 These instructions assume that you already have Docker and Docker-compose installed on your machine - if not, please follow the instructions 
 [here](https://docs.docker.com/compose/install/). 
 - Clone this repository to your computer
-- Navigate to the root of the project: `cd car-evaluation-project`
+- Navigate to the root of the project: `cd car-evaluation-project/packages`
 - Build the docker images using `docker-compose up -d --build`
   - This may take a minute
 - Open your browser and navigate to http://localhost:8501 to use the application. 
